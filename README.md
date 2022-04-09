@@ -16,11 +16,11 @@ Hi, I am Steven, senior studying Geography: Data Science at University of Washin
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
-Summary of your role
+# Things I Want to Do or Accomplish in the Future 
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- **Traveling to Japan**
+- **Become a data Analyst**
+- **Lead a healthy life** 
+- **Trying to balance between study and play**
 
 [University 1]: 
