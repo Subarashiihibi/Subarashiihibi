@@ -1,7 +1,7 @@
 # Your Name
 Steven Chen
 
-# Contact: 
+# Contact
 chenj274@uw.edu
 
 # Self Intro:
