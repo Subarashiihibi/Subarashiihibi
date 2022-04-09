@@ -23,4 +23,4 @@ Hi, I am Steven, senior studying Geography: Data Science at University of Washin
 - **Lead a healthy life** 
 - **Trying to balance between study and play**
 
-[University 1]: 
+[University of Washington](https://www.washington.edu/about/?utm_source=whitebar&utm_medium=click&utm_campaign=about&utm_term=abouttheuw)
