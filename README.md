@@ -1,16 +1,26 @@
-### Hi there 👋
+# Your Name
+Steven Chen
 
-<!--
-**Subarashiihibi/Subarashiihibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contact: 
+chenj274@uw.edu
 
-Here are some ideas to get you started:
+# Self Intro:
+Hi, I am Steven, senior studying Geography: Data Science at University of Washington. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Education
+
+## University of Washington (Seattle, Washington)
+
+* [University 1][] The UW is one of the world’s preeminent public universities. Our impact on individuals, our region and the world is profound — whether we are launching young people into a boundless future or confronting the grand challenges of our time through undaunted research and scholarship. Ranked No. 7 in the world on the U.S. News & World Report’s Best Global Universities rankings, the UW educates more than 54,000 students annually. We turn ideas into impact and transform lives and our world.*
+
+** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+
+Summary of your role
+
+- Accomplishment that contains **bold text**.
+- Accomplishment
+- Accomplishment
+- Accomplishment
+
+[University 1]: 
