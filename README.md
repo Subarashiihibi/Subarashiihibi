@@ -14,7 +14,7 @@ Hi, I am Steven, senior studying Geography: Data Science at University of Washin
 
 * [University of Washington][] The UW is one of the world’s preeminent public universities. Our impact on individuals, our region and the world is profound — whether we are launching young people into a boundless future or confronting the grand challenges of our time through undaunted research and scholarship. Ranked No. 7 in the world on the U.S. News & World Report’s Best Global Universities rankings, the UW educates more than 54,000 students annually. We turn ideas into impact and transform lives and our world.*
 
-** Time: ** (Start Date - End Date)
+** Sept. 2018 - June 2022 **
 
 # Things I Want to Do or Accomplish in the Future 
 
