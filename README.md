@@ -5,7 +5,7 @@ Steven Chen
 chenj274@uw.edu
 
 # Self Intro:
-Hi, I am Steven, senior studying Geography: Data Science at University of Washington. I am interested in GIS and data science because they will help people's life in many ways. In my spare time, I enjoy watching anime and play video games with my friends. My favourite anime <em>would be Neon Genesis Evangelion</em>. It is nice to meet you and hope we could learn a lot of new stuff in the coming weeks. 
+Hi, I am Steven, senior studying Geography: Data Science at University of Washington. I am interested in GIS and data science because they will help people's life in many ways. In my spare time, I enjoy watching anime and play video games with my friends. My favourite anime <em>would be Neon Genesis Evangelion</em>[EVA](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion). It is nice to meet you and hope we could learn a lot of new stuff in the coming weeks. 
 
 # Education
 
